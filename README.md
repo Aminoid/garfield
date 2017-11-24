@@ -22,3 +22,9 @@ python get_kinesis.py
 ```python
 python put_kinesis.py
 ```
+
+## Results
+You can check the indexing into Elastic Search using `curl` command like an example below.
+```bash
+curl -XGET https://search-news-group-pcagpupl573mnu3scbh3wp63vu.us-east-1.es.amazonaws.com/news/news/_search?pretty\&q=category:comp.graphics
+```
