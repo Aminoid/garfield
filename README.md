@@ -6,7 +6,7 @@ AWS framework to stream, classify, index and store it using Kinesis, S3, Elastic
 
 1. Since, we are using boto3 to access AWS components, follow all the instructions on this [page][1].
 
-2. Install all python dependencies.
+2. Install all python dependencies. We are using python 2.7.
 ```bash
 pip install requirements.txt
 ```
