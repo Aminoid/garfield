@@ -31,7 +31,7 @@ elasticsearch==5.4.0
 entrypoints==0.2.2
 enum34==1.1.6
 Faker==0.8.7
-Flask==0.12.2
+Flask==1.0
 Flask-MySQLdb==0.2.0
 Flask-RESTful==0.3.6
 funcsigs==1.0.2
