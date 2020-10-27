@@ -19,7 +19,7 @@ click==6.7
 colorama==0.3.7
 conda==4.3.30
 configparser==3.5.0
-cryptography==1.7.1
+cryptography==3.2
 cycler==0.10.0
 dateparser==0.6.0
 decorator==4.0.11
