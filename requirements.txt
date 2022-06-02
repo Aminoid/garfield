@@ -39,7 +39,7 @@ functools32==3.2.3.post2
 futures==3.0.5
 gensim==1.0.1
 gym-ple==0.1
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.10.3
 idna==2.2
 imageio==2.1.2
