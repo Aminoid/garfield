@@ -59,7 +59,7 @@ jupyter-core==4.3.0
 lxml==4.1.0
 MarkupSafe==0.23
 matplotlib==2.0.0
-mistune==0.7.4
+mistune==2.0.3
 mock==1.0.1
 moment==0.8
 moviepy==0.2.3.2
